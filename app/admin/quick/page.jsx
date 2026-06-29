@@ -67,7 +67,7 @@ export default function Quick() {
     <div className="q">
       <style>{CSS}</style>
       <div className="qbar">
-        <div className="qbrand">BEN<span>.</span>DAVIS <small>quick edits</small></div>
+        <div className="qbrand">OLD CROW <span>MANOR</span> <small>quick edits</small></div>
         <div className="qactions">
           <a className="qbtn ghost" href="/">Back to site</a>
           {status === 'in' && <button className="qbtn save" disabled={busy || !dirty} onClick={save}>{busy ? 'Saving...' : dirty ? 'Save' : 'Saved'}</button>}
@@ -130,7 +130,7 @@ const CSS = `
 .q{--cream:#efe9dd;--ink:#15130f;--ink-soft:#3b3730;--blue:#3a9fc7;--blue-deep:#2b85ab;--line:rgba(21,19,15,.16);background:var(--cream);color:var(--ink);min-height:100vh;font-family:'Archivo',system-ui,sans-serif}
 .q *{box-sizing:border-box}
 .qbar{position:sticky;top:0;z-index:10;background:rgba(239,233,221,.92);backdrop-filter:blur(8px);border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;padding:13px 22px;gap:10px}
-.qbrand{font-family:'Anton',sans-serif;font-size:22px;letter-spacing:.04em;white-space:nowrap}
+.qbrand{font-family:'Cinzel',serif;font-size:20px;letter-spacing:.04em;white-space:nowrap}
 .qbrand span{color:var(--blue)}
 .qbrand small{font-family:'Archivo';font-size:11px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-soft);margin-left:8px}
 .qactions{display:flex;gap:8px}
