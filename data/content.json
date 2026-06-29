@@ -1,0 +1,139 @@
+{
+  "site": {
+    "brand": "OLD CROW MANOR",
+    "title": "Old Crow Manor | Haunted Attraction in Milton, Delaware",
+    "description": "A free, community-built walkthrough haunted house in Milton, Delaware. Live actors, strobe-lit rooms, and plenty of scares every October.",
+    "domain": "oldcrowmanor-site.vercel.app",
+    "email": ""
+  },
+  "social": {
+    "instagram": "https://www.instagram.com/dadbod_creations/",
+    "tiktok": "",
+    "youtube": "",
+    "snapchat": "",
+    "shopmy": "",
+    "cashapp": "",
+    "venmo": "",
+    "paypal": "",
+    "wishlist": ""
+  },
+  "stats": [
+    { "n": "FREE", "l": "ADMISSION" },
+    { "n": "200+", "l": "VISITORS A NIGHT" },
+    { "n": "6-12", "l": "LIVE ACTORS" },
+    { "n": "2020", "l": "HAUNTING SINCE" }
+  ],
+  "marquee": [
+    "Live Actors",
+    "Walkthrough Haunt",
+    "Free Admission",
+    "Milton, Delaware",
+    "Strobe-Lit Rooms",
+    "Custom-Built Scares",
+    "Donations Welcome"
+  ],
+  "home": {
+    "kicker": "MILTON, DELAWARE",
+    "h1line1": "OLD CROW",
+    "h1line2": "MANOR",
+    "sub_bold": "A free, community-built haunted house.",
+    "sub_rest": "Live actors, strobe-lit rooms, and custom-built scares, brought to life every October by Brock Rogers and his crew.",
+    "portrait": "/assets/hero.jpg",
+    "portraitTag": "ENTER",
+    "portraitTagSub": "IF YOU DARE",
+    "primaryCtaLabel": "Plan Your Visit",
+    "ghostCtaLabel": "See the Scares",
+    "workEyebrow": "WHAT AWAITS",
+    "workTitle": "STEP INSIDE",
+    "blocks": []
+  },
+  "pages": {
+    "modeling": {
+      "nav": "The Haunt",
+      "eyebrow": "THE WALKTHROUGH",
+      "title": "THE HAUNT",
+      "intro": "Old Crow Manor is a full walkthrough haunted house built on the grounds of Neptune Road. Dark, strobe-lit rooms, custom-built skeletons, coffins, and animatronics, with live actors waiting in the shadows. What began as one man's Halloween tradition grew into the scare the whole community lines up for.",
+      "videoId": "",
+      "videoCaption": "",
+      "gallery": [
+        { "src": "/media/haunt_1.jpg", "alt": "Inside the Old Crow Manor walkthrough", "caption": "INSIDE THE MANOR" },
+        { "src": "/media/haunt_2.jpg", "alt": "A strobe-lit room at Old Crow Manor", "caption": "STROBE-LIT ROOMS" },
+        { "src": "/media/haunt_3.jpg", "alt": "A scene from the Old Crow Manor haunt", "caption": "THE WALKTHROUGH" }
+      ],
+      "ctaLabel": "PLAN YOUR VISIT",
+      "blocks": []
+    },
+    "acting": {
+      "nav": "Gallery",
+      "eyebrow": "FROM PAST NIGHTS",
+      "title": "THE GALLERY",
+      "intro": "Real faces, real screams. A look back at past seasons at Old Crow Manor, from the October walkthrough to the Krampus Christmas nights.",
+      "videoId": "",
+      "videoCaption": "",
+      "gallery": [
+        { "src": "/media/gal_1.jpg", "alt": "Krampus night photo at Old Crow Manor", "caption": "KRAMPUS NIGHTS" },
+        { "src": "/media/gal_2.jpg", "alt": "Visitors caught in the dark at Old Crow Manor", "caption": "CAUGHT IN THE DARK" },
+        { "src": "/media/gal_3.jpg", "alt": "A scare moment at Old Crow Manor", "caption": "THE SCARE" }
+      ],
+      "ctaLabel": "SEE MORE ON INSTAGRAM",
+      "blocks": []
+    },
+    "content-creation": {
+      "nav": "Get Involved",
+      "eyebrow": "JOIN THE CREW",
+      "title": "GET INVOLVED",
+      "intro": "Old Crow Manor runs on volunteers. Actors, builders, makeup artists, and crew all help bring it to life. If you love Halloween and want to scare alongside us, come to the next meet and greet. Donations are always welcome and go straight back into the haunt.",
+      "videoId": "",
+      "videoCaption": "",
+      "gallery": [
+        { "src": "/media/inv_1.jpg", "alt": "The Old Crow Manor crew", "caption": "THE CREW" },
+        { "src": "/media/inv_2.jpg", "alt": "Behind the scenes at the haunt", "caption": "BEHIND THE SCARES" },
+        { "src": "/media/inv_3.jpg", "alt": "Build night at Old Crow Manor", "caption": "BUILD NIGHTS" }
+      ],
+      "ctaLabel": "VOLUNTEER WITH US",
+      "blocks": []
+    },
+    "about": {
+      "nav": "About",
+      "eyebrow": "THE STORY",
+      "title": "ABOUT OLD CROW MANOR",
+      "heroImage": "/media/about_hero.jpg",
+      "big": "Built|to|scare.",
+      "paragraphs": [
+        "Old Crow Manor started as a personal Halloween tradition after Brock Rogers moved to Neptune Road in 2020. Each year went bigger, mixing store-bought pieces with custom-built skeletons, tombstones, coffins, and animatronics.",
+        "In 2023, the garage became a full walkthrough haunted house, and more than 200 brave souls came through on Halloween night alone. Today it is a free, community-driven attraction run with family and friends, full of dark rooms, live actors, and plenty of screams. Halloween has always been Brock's favorite holiday, and Old Crow Manor is his way of sharing it."
+      ],
+      "pills": [ "FREE TO ENTER", "LIVE ACTORS", "FAMILY RUN", "MILTON, DE" ],
+      "videoId": "",
+      "videoCaption": "",
+      "guide": {
+        "eyebrow": "SUPPORT THE HAUNT",
+        "title": "DONATIONS WELCOME",
+        "body": "Old Crow Manor is free to walk through. Donations help cover build costs and new scares for next season, and every dollar goes right back into the haunt.",
+        "image": "/media/donate.jpg",
+        "ctaLabel": "DONATE",
+        "ctaHref": "https://www.oldcrowmanor.com/donate/"
+      },
+      "partner": null,
+      "blocks": []
+    },
+    "contact": {
+      "nav": "Visit",
+      "eyebrow": "PLAN YOUR VISIT",
+      "title": "Find the Manor",
+      "intro": "Old Crow Manor is a seasonal haunt in Milton, Delaware, open each October. Follow along on Instagram for this year's dates, volunteer nights, and donation links.",
+      "connectEyebrow": "Find Us",
+      "blocks": []
+    }
+  },
+  "promoLinks": [],
+  "booking": {
+    "eyebrow": "BEFORE YOU COME",
+    "title": "Plan your visit",
+    "intro": "Old Crow Manor opens every October in Milton, Delaware. Check the latest dates and details, then come get scared. Admission is free, donations welcome.",
+    "ctaLabel": "Plan Your Visit",
+    "url": "https://www.oldcrowmanor.com/calendar/",
+    "phone": "",
+    "note": "Free to enter. Dark, strobe-lit rooms and live actors. May not be suitable for very young children."
+  }
+}
